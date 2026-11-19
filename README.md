@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](QuantumErrorCorrection-Lab%20cover.png)
 
 # QuantumErrorCorrection-Lab 🛡️⚛️
 
